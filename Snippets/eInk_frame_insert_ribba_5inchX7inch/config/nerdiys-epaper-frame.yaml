@@ -118,7 +118,7 @@ http_request:
 
 dashboard_import:
   package_import_url: 
-    github://Nerdiyde/ESPHomeSnippets/blob/main/Snippets/ikea_epaper_frame/nerdiys-epaper-frame.yaml@main
+    github://Dreanaught/ESPHomeSnippets/blob/main/Snippets/eInk_frame_insert_ribba_5inchX7inch/config/nerdiys-epaper-frame.yaml@main
   import_full_config: true
 
 wifi:      
